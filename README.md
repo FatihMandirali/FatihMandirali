@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Mandıralı</h1>
-<h3 align="center">I am a computer engineer. I spend my time doing projects and developing myself. You can see some projects I have done.</h3>
+<h3 align="center">I am a Software Developer. I spend my time doing projects and developing myself. You can see some projects I have done.</h3>
 
 
 ## 🌐 Socials:
